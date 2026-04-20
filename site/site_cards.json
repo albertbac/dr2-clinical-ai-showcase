@@ -1,0 +1,221 @@
+[
+  {
+    "slug": "ceo-agentes",
+    "app_name": "CEO Agentes",
+    "public_title": "Multi-tenant Agent Operations Layer",
+    "one_liner_ptbr": "Camada de operacao e governanca para sistemas de IA por dominio, com trilha de auditoria e gate humano.",
+    "one_liner_en": "A governance-first operations layer for running separated domain AI systems with auditability and human gates.",
+    "primary_user": "Founder or operations lead",
+    "category": "agent-orchestration",
+    "tags": [
+      "agents",
+      "orchestration",
+      "multi-tenant",
+      "audit",
+      "ops"
+    ],
+    "suggested_public_url_path": "/ceo-agentes",
+    "suggested_cta_label": "Open CEO Agentes profile",
+    "risk_level": "MEDIUM",
+    "confidence": "MEDIUM"
+  },
+  {
+    "slug": "digital-twins",
+    "app_name": "Digital Twins",
+    "public_title": "Scenario Simulation and Digital Twin Workspace",
+    "one_liner_ptbr": "Workspace de simulacao de cenarios que combina insumo estruturado, agentes simulados e evidencia para explorar futuros possiveis.",
+    "one_liner_en": "A scenario analysis workspace that uses structured inputs, simulated agents, and layered evidence to explore possible futures.",
+    "primary_user": "Strategy or operations team",
+    "category": "clinical-ai",
+    "tags": [
+      "simulation",
+      "digital-twins",
+      "scenario-analysis",
+      "agents",
+      "analytics"
+    ],
+    "suggested_public_url_path": "/digital-twins",
+    "suggested_cta_label": "Open Digital Twins profile",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "dr2-bot",
+    "app_name": "dr2-bot",
+    "public_title": "Evidence-first Specialist Analyst Assistant",
+    "one_liner_ptbr": "Assistente analitico orientado a documentos, com ingestao estruturada, recuperacao de contexto e painel de evidencias auditavel.",
+    "one_liner_en": "A document-aware analytical assistant that combines retrieval, structured ingestion, and audit-friendly evidence panels.",
+    "primary_user": "Specialist analyst",
+    "category": "clinical-ai",
+    "tags": [
+      "rag",
+      "retrieval",
+      "evidence",
+      "documents",
+      "assistant"
+    ],
+    "suggested_public_url_path": "/dr2-bot",
+    "suggested_cta_label": "Open dr2-bot profile",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "gaso",
+    "app_name": "Gaso",
+    "public_title": "Clinical Blood Gas Analysis Workspace",
+    "one_liner_ptbr": "Workspace clinico para interpretacao de gasometria e exames associados, com motor deterministico e apoio controlado de IA.",
+    "one_liner_en": "A clinical analysis workspace for blood gas interpretation and related exam review with deterministic support and controlled AI assistance.",
+    "primary_user": "Clinical professional",
+    "category": "clinical-ai",
+    "tags": [
+      "gasometry",
+      "clinical-analysis",
+      "ocr",
+      "deterministic-engine",
+      "healthtech"
+    ],
+    "suggested_public_url_path": "/gaso",
+    "suggested_cta_label": "Open Gaso profile",
+    "risk_level": "HIGH",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "gestao-de-unidade",
+    "app_name": "Gestao de unidade",
+    "public_title": "Healthcare Unit Operations and Indicator Management",
+    "one_liner_ptbr": "Aplicacao web para gestao de unidade de saude que transforma indicadores fragmentados em monitoramento, acao, revisao e melhoria continua.",
+    "one_liner_en": "A web application for healthcare unit management that turns fragmented operational indicators into monitored action, review, and improvement cycles.",
+    "primary_user": "Healthcare unit manager",
+    "category": "clinical-ai",
+    "tags": [
+      "health-ops",
+      "quality",
+      "pdca",
+      "dashboards",
+      "decision-support"
+    ],
+    "suggested_public_url_path": "/gestao-de-unidade",
+    "suggested_cta_label": "Open Gestao de unidade profile",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "gn-psav-calculadora",
+    "app_name": "GN - PSAV calculadora",
+    "public_title": "Regulatory Exposure Calculator for Crypto P2P Operators",
+    "one_liner_ptbr": "Calculadora juridico-operacional para estimar exposicao regulatoria e caminhos de decisao em operacoes P2P de criptoativos.",
+    "one_liner_en": "A legal-operational calculator that helps assess regulatory exposure and decision paths for crypto P2P activity.",
+    "primary_user": "Founder or legal operator",
+    "category": "regtech",
+    "tags": [
+      "regulatory",
+      "crypto",
+      "diagnostic",
+      "decision-support",
+      "legaltech"
+    ],
+    "suggested_public_url_path": "/gn-psav-calculadora",
+    "suggested_cta_label": "Open GN - PSAV calculadora profile",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "gn-agente-ma",
+    "app_name": "GN - Agente M&A",
+    "public_title": "Seller-side M&A Decision Workspace",
+    "one_liner_ptbr": "Workspace faseado de decisao em M&A seller-side, combinando memoria, disciplina documental e raciocinio assistido por agentes.",
+    "one_liner_en": "A phase-based M&A decision workspace that combines memory, document discipline, and agent-assisted reasoning for seller-side work.",
+    "primary_user": "M&A advisor or deal team",
+    "category": "decision-systems",
+    "tags": [
+      "m-and-a",
+      "decision-workspace",
+      "agents",
+      "documents",
+      "strategy"
+    ],
+    "suggested_public_url_path": "/gn-agente-ma",
+    "suggested_cta_label": "Open GN - Agente M&A profile",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "gut-matrix-app",
+    "app_name": "GUT Matrix App",
+    "public_title": "Priority Matrix for Structured Decision Making",
+    "one_liner_ptbr": "Aplicativo web enxuto para priorizar problemas e iniciativas por meio de uma matriz GUT estruturada.",
+    "one_liner_en": "A lightweight web app for prioritizing issues and initiatives through a structured GUT framework.",
+    "primary_user": "Manager or team lead",
+    "category": "decision-systems",
+    "tags": [
+      "prioritization",
+      "gut-matrix",
+      "management",
+      "workflow"
+    ],
+    "suggested_public_url_path": "/gut-matrix-app",
+    "suggested_cta_label": "Open GUT Matrix App profile",
+    "risk_level": "LOW",
+    "confidence": "HIGH"
+  },
+  {
+    "slug": "ishikawa",
+    "app_name": "Ishikawa",
+    "public_title": "Template-driven Ishikawa Diagram Builder",
+    "one_liner_ptbr": "Construtor estruturado de Ishikawa que transforma entradas guiadas em saidas consistentes em SVG e PNG.",
+    "one_liner_en": "A structured Ishikawa builder that turns guided inputs into consistent SVG and PNG outputs.",
+    "primary_user": "Quality or process improvement team",
+    "category": "workflow-design",
+    "tags": [
+      "ishikawa",
+      "diagram",
+      "svg",
+      "png",
+      "quality"
+    ],
+    "suggested_public_url_path": "/ishikawa",
+    "suggested_cta_label": "Open Ishikawa profile",
+    "risk_level": "LOW",
+    "confidence": "MEDIUM"
+  },
+  {
+    "slug": "prontuario-juridico",
+    "app_name": "Prontuario juridico",
+    "public_title": "Legal Dossier and Case Operations Workspace",
+    "one_liner_ptbr": "Workspace multi-tenant de operacao juridica para dossies, documentos, calculos e fluxos assistidos por IA.",
+    "one_liner_en": "A multi-tenant legal operations workspace for dossiers, documents, calculations, and controlled AI-assisted workflows.",
+    "primary_user": "Law firm operator",
+    "category": "legal-ops",
+    "tags": [
+      "legaltech",
+      "documents",
+      "dossier",
+      "workflow",
+      "multi-tenant"
+    ],
+    "suggested_public_url_path": "/prontuario-juridico",
+    "suggested_cta_label": "Open Prontuario juridico profile",
+    "risk_level": "HIGH",
+    "confidence": "MEDIUM"
+  },
+  {
+    "slug": "rag-analista",
+    "app_name": "RAG Analista",
+    "public_title": "RAG Analyst for Document-heavy Operations",
+    "one_liner_ptbr": "Plataforma multi-tenant de analise documental com recuperacao de contexto, perguntas guiadas e revisao operacional controlada.",
+    "one_liner_en": "A multi-tenant analysis platform that answers over document context with retrieval, guided prompts, and controlled operational review.",
+    "primary_user": "Operational analyst",
+    "category": "clinical-ai",
+    "tags": [
+      "rag",
+      "documents",
+      "analysis",
+      "guided-prompts",
+      "health-ops"
+    ],
+    "suggested_public_url_path": "/rag-analista",
+    "suggested_cta_label": "Open RAG Analista profile",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH"
+  }
+]

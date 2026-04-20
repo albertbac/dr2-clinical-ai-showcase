@@ -1,30 +1,12 @@
 # Security Boundary
 
-## Public boundary
+The hub is an index only. It should not become a second documentation dump.
 
-This repository is a public-safe layer only.
-It does not include application internals, deployment internals, private infrastructure, or operating instructions that would weaken the security boundary of the real systems.
+## Never keep in the hub
+- detailed per-app public cases that belong in the individual repositories
+- any copied operational material
+- any raw records or live screenshots
+- any internal infrastructure detail
 
-## Excluded material classes
-
-- source code from private products
-- private access material
-- private infrastructure maps
-- raw clinical or operational content
-- private institutional identifiers
-- internal document corpora
-- real screenshots from production
-- internal workflow rules that would weaken the products if exposed
-
-## Review rule before publication
-
-Every file inside this repository must be reviewed for:
-- direct identifiers
-- private contacts
-- private infrastructure references
-- raw data traces
-- copied code
-- copied prompts
-- copied operational instructions
-
-If doubt remains, publication must be blocked.
+## Review rule before push
+Re-open every file in the hub, verify that it only contains index-level material, and block publication if the hub starts acting as a generic repository dump.

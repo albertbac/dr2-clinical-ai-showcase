@@ -1,52 +1,73 @@
-# Vitrine publica da DR2
+# Vitrine publica DR2
 
-## Introducao
-Esta vitrine publica apresenta produtos e camadas de produto reconstruidos para revisao tecnica segura. Ela nao publica sistemas produtivos nem material operacional privado.
+## Introducao geral
+Esta vitrine publica organiza o portfolio em um hub principal e em um repositorio publico por app. A camada publica existe para posicionamento tecnico seguro, sem abrir os sistemas produtivos.
 
-## CEO Agentes
-Camada de operacao e governanca para sistemas de IA por dominio, com trilha de auditoria e gate humano.
-CTA sugerida: Ver a ficha tecnica publica de CEO Agentes.
+## Tese central
+- medicina como assimetria
+- dados como metodo
+- app web como entrega
+
+## Core Healthcare / Clinical AI
 
 ## Digital Twins
-Workspace de simulacao de cenarios que combina insumo estruturado, agentes simulados e evidencia para explorar futuros possiveis.
-CTA sugerida: Ver a ficha tecnica publica de Digital Twins.
+- descricao curta: Workspace de simulacao de cenarios e digital twin para raciocinio estruturado e apoio a decisao.
+- valor entregue: Mostra como cenarios complexos podem virar um workspace disciplinado de simulacao e comparacao.
+- CTA: Ver o case tecnico publico de Digital Twins.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-digital-twins-showcase
 
 ## dr2-bot
-Assistente analitico orientado a documentos, com ingestao estruturada, recuperacao de contexto e painel de evidencias auditavel.
-CTA sugerida: Ver a ficha tecnica publica de dr2-bot.
+- descricao curta: Assistente analitico orientado a evidencia, com ingestao documental e respostas fundamentadas em contexto recuperado.
+- valor entregue: Apresenta um assistente analitico que responde com base em evidencia rastreavel, e nao em texto solto.
+- CTA: Ver o case tecnico publico de dr2-bot.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-bot-showcase
+
+## dr2pdf
+- descricao curta: Camada de anonimização e sanitizacao de PDFs com foco em privacidade, controle operacional e processamento seguro.
+- valor entregue: Mostra um produto voltado a sanitizacao documental sem expor as regras internas que sustentam a seguranca da operacao.
+- CTA: Ver o case tecnico publico de dr2pdf.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2pdf-showcase
 
 ## Gaso
-Workspace clinico para interpretacao de gasometria e exames associados, com motor deterministico e apoio controlado de IA.
-CTA sugerida: Ver a ficha tecnica publica de Gaso.
+- descricao curta: Workspace clinico para gasometria e exames relacionados, com camada deterministica e apoio controlado de IA.
+- valor entregue: Explica como um workspace clinico pode combinar estrutura, apoio deterministico e revisao controlada sem virar caixa-preta.
+- CTA: Ver o case tecnico publico de Gaso.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-gaso-showcase
 
 ## Gestao de unidade
-Aplicacao web para gestao de unidade de saude que transforma indicadores fragmentados em monitoramento, acao, revisao e melhoria continua.
-CTA sugerida: Ver a ficha tecnica publica de Gestao de unidade.
+- descricao curta: Camada de gestao operacional de unidade de saude com indicadores, priorizacao, trilha de acao e visibilidade executiva.
+- valor entregue: Mostra como sinais operacionais fragmentados podem virar uma rotina coordenada de revisao, prioridade e acao.
+- CTA: Ver o case tecnico publico de Gestao de unidade.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-gestao-de-unidade-showcase
 
-## GN - PSAV calculadora
-Calculadora juridico-operacional para estimar exposicao regulatoria e caminhos de decisao em operacoes P2P de criptoativos.
-CTA sugerida: Ver a ficha tecnica publica de GN - PSAV calculadora.
+## InfectoTech
+- descricao curta: Camada de produto documentada de forma conservadora, com foco presumido em operacao relacionada a infeccao e LOW CONFIDENCE por sinais conflitantes.
+- valor entregue: Mantem uma camada publica minima enquanto o enquadramento final do produto ainda precisa ser confirmado manualmente.
+- CTA: Ver o case tecnico publico e conservador de InfectoTech.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-infectotech-showcase
 
-## GN - Agente M&A
-Workspace faseado de decisao em M&A seller-side, combinando memoria, disciplina documental e raciocinio assistido por agentes.
-CTA sugerida: Ver a ficha tecnica publica de GN - Agente M&A.
-
-## GUT Matrix App
-Aplicativo web enxuto para priorizar problemas e iniciativas por meio de uma matriz GUT estruturada.
-CTA sugerida: Ver a ficha tecnica publica de GUT Matrix App.
-
-## Ishikawa
-Construtor estruturado de Ishikawa que transforma entradas guiadas em saidas consistentes em SVG e PNG.
-CTA sugerida: Ver a ficha tecnica publica de Ishikawa.
-
-## Prontuario juridico
-Workspace multi-tenant de operacao juridica para dossies, documentos, calculos e fluxos assistidos por IA.
-CTA sugerida: Ver a ficha tecnica publica de Prontuario juridico.
+## O plantonista
+- descricao curta: Companion de fluxo do plantonista para organizar pacientes, sintetizar contexto e apoiar a passagem de caso.
+- valor entregue: Mostra como o plantao pode virar um fluxo organizado, legivel e mobile-first sem prometer decisao clinica automatica.
+- CTA: Ver o case tecnico publico de O plantonista.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-o-plantonista-showcase
 
 ## RAG Analista
-Plataforma multi-tenant de analise documental com recuperacao de contexto, perguntas guiadas e revisao operacional controlada.
-CTA sugerida: Ver a ficha tecnica publica de RAG Analista.
+- descricao curta: Plataforma de analise documental com RAG, perguntas guiadas e revisao controlada para operacoes intensivas em contexto.
+- valor entregue: Explica como uma camada RAG pode apoiar operacoes com muitos documentos sem perder controle sobre contexto e revisao.
+- CTA: Ver o case tecnico publico de RAG Analista.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-rag-analista-showcase
 
-## Orientacao de link entre site e GitHub
-- O site deve apontar para o README raiz e para a pasta publica de cada app.
-- O GitHub deve ser tratado como camada tecnica e documental, nao como demo operacional.
+## Adjacent Systems
+
+## Graph2
+- descricao curta: Camada de data storytelling e narrativa analitica para transformar estrutura em leitura executiva e comunicacao de insight.
+- valor entregue: Explica como leitura analitica pode ser organizada como narrativa de decisao, e nao apenas como painel de graficos.
+- CTA: Ver o case tecnico publico de Graph2.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-graph2-showcase
+
+## Seguro-hack
+- descricao curta: Ferramenta defensiva de assessment e hardening, orientada a usuarios leigos e publicada sem detalhes ofensivos.
+- valor entregue: Mostra uma camada defensiva simples para diagnostico e correcoes praticas sem expor detalhes ofensivos.
+- CTA: Ver o case tecnico publico de Seguro-hack.
+- orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-seguro-hack-showcase

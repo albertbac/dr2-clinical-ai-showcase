@@ -1,221 +1,209 @@
 [
   {
-    "slug": "ceo-agentes",
-    "app_name": "CEO Agentes",
-    "public_title": "Multi-tenant Agent Operations Layer",
-    "one_liner_ptbr": "Camada de operacao e governanca para sistemas de IA por dominio, com trilha de auditoria e gate humano.",
-    "one_liner_en": "A governance-first operations layer for running separated domain AI systems with auditability and human gates.",
-    "primary_user": "Founder or operations lead",
-    "category": "agent-orchestration",
-    "tags": [
-      "agents",
-      "orchestration",
-      "multi-tenant",
-      "audit",
-      "ops"
-    ],
-    "suggested_public_url_path": "/ceo-agentes",
-    "suggested_cta_label": "Open CEO Agentes profile",
-    "risk_level": "MEDIUM",
-    "confidence": "MEDIUM"
-  },
-  {
     "slug": "digital-twins",
     "app_name": "Digital Twins",
     "public_title": "Scenario Simulation and Digital Twin Workspace",
-    "one_liner_ptbr": "Workspace de simulacao de cenarios que combina insumo estruturado, agentes simulados e evidencia para explorar futuros possiveis.",
-    "one_liner_en": "A scenario analysis workspace that uses structured inputs, simulated agents, and layered evidence to explore possible futures.",
-    "primary_user": "Strategy or operations team",
+    "one_liner_ptbr": "Workspace de simulacao de cenarios e digital twin para raciocinio estruturado e apoio a decisao.",
+    "one_liner_en": "A public-safe technical case for scenario simulation, digital twin reasoning, and structured decision support.",
+    "primary_user": "Strategy or operations lead",
     "category": "clinical-ai",
     "tags": [
       "simulation",
       "digital-twins",
       "scenario-analysis",
-      "agents",
-      "analytics"
+      "analytics",
+      "decision-support"
     ],
     "suggested_public_url_path": "/digital-twins",
-    "suggested_cta_label": "Open Digital Twins profile",
+    "suggested_cta_label": "Open Scenario Simulation and Digital Twin Workspace",
     "risk_level": "MEDIUM",
-    "confidence": "HIGH"
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-digital-twins-showcase"
   },
   {
     "slug": "dr2-bot",
     "app_name": "dr2-bot",
     "public_title": "Evidence-first Specialist Analyst Assistant",
-    "one_liner_ptbr": "Assistente analitico orientado a documentos, com ingestao estruturada, recuperacao de contexto e painel de evidencias auditavel.",
-    "one_liner_en": "A document-aware analytical assistant that combines retrieval, structured ingestion, and audit-friendly evidence panels.",
+    "one_liner_ptbr": "Assistente analitico orientado a evidencia, com ingestao documental e respostas fundamentadas em contexto recuperado.",
+    "one_liner_en": "A public-safe technical case for an evidence-first specialist analyst assistant built around controlled retrieval and document grounding.",
     "primary_user": "Specialist analyst",
     "category": "clinical-ai",
     "tags": [
       "rag",
-      "retrieval",
       "evidence",
       "documents",
+      "retrieval",
       "assistant"
     ],
     "suggested_public_url_path": "/dr2-bot",
-    "suggested_cta_label": "Open dr2-bot profile",
+    "suggested_cta_label": "Open Evidence-first Specialist Analyst Assistant",
     "risk_level": "MEDIUM",
-    "confidence": "HIGH"
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-bot-showcase"
+  },
+  {
+    "slug": "dr2pdf",
+    "app_name": "dr2pdf",
+    "public_title": "Privacy-preserving PDF Anonymization and Document Sanitization",
+    "one_liner_ptbr": "Camada de anonimização e sanitizacao de PDFs com foco em privacidade, controle operacional e processamento seguro.",
+    "one_liner_en": "A public-safe technical case for privacy-preserving PDF anonymization, sanitization, and controlled document transformation.",
+    "primary_user": "Document operations team",
+    "category": "clinical-ai",
+    "tags": [
+      "pdf",
+      "sanitization",
+      "privacy",
+      "document-ops",
+      "anonymization"
+    ],
+    "suggested_public_url_path": "/dr2pdf",
+    "suggested_cta_label": "Open Privacy-preserving PDF Anonymization and Document Sanitization",
+    "risk_level": "HIGH",
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2pdf-showcase"
   },
   {
     "slug": "gaso",
     "app_name": "Gaso",
     "public_title": "Clinical Blood Gas Analysis Workspace",
-    "one_liner_ptbr": "Workspace clinico para interpretacao de gasometria e exames associados, com motor deterministico e apoio controlado de IA.",
-    "one_liner_en": "A clinical analysis workspace for blood gas interpretation and related exam review with deterministic support and controlled AI assistance.",
+    "one_liner_ptbr": "Workspace clinico para gasometria e exames relacionados, com camada deterministica e apoio controlado de IA.",
+    "one_liner_en": "A public-safe technical case for a clinical blood gas analysis workspace with deterministic support and controlled AI assistance.",
     "primary_user": "Clinical professional",
     "category": "clinical-ai",
     "tags": [
       "gasometry",
       "clinical-analysis",
-      "ocr",
-      "deterministic-engine",
+      "deterministic-support",
       "healthtech"
     ],
     "suggested_public_url_path": "/gaso",
-    "suggested_cta_label": "Open Gaso profile",
+    "suggested_cta_label": "Open Clinical Blood Gas Analysis Workspace",
     "risk_level": "HIGH",
-    "confidence": "HIGH"
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-gaso-showcase"
   },
   {
     "slug": "gestao-de-unidade",
     "app_name": "Gestao de unidade",
     "public_title": "Healthcare Unit Operations and Indicator Management",
-    "one_liner_ptbr": "Aplicacao web para gestao de unidade de saude que transforma indicadores fragmentados em monitoramento, acao, revisao e melhoria continua.",
-    "one_liner_en": "A web application for healthcare unit management that turns fragmented operational indicators into monitored action, review, and improvement cycles.",
+    "one_liner_ptbr": "Camada de gestao operacional de unidade de saude com indicadores, priorizacao, trilha de acao e visibilidade executiva.",
+    "one_liner_en": "A public-safe technical case for healthcare unit operations, indicators, prioritization, and coordinated management workflows.",
     "primary_user": "Healthcare unit manager",
     "category": "clinical-ai",
     "tags": [
-      "health-ops",
-      "quality",
-      "pdca",
+      "healthcare-operations",
       "dashboards",
+      "prioritization",
+      "auditability",
       "decision-support"
     ],
     "suggested_public_url_path": "/gestao-de-unidade",
-    "suggested_cta_label": "Open Gestao de unidade profile",
+    "suggested_cta_label": "Open Healthcare Unit Operations and Indicator Management",
     "risk_level": "MEDIUM",
-    "confidence": "HIGH"
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-gestao-de-unidade-showcase"
   },
   {
-    "slug": "gn-psav-calculadora",
-    "app_name": "GN - PSAV calculadora",
-    "public_title": "Regulatory Exposure Calculator for Crypto P2P Operators",
-    "one_liner_ptbr": "Calculadora juridico-operacional para estimar exposicao regulatoria e caminhos de decisao em operacoes P2P de criptoativos.",
-    "one_liner_en": "A legal-operational calculator that helps assess regulatory exposure and decision paths for crypto P2P activity.",
-    "primary_user": "Founder or legal operator",
-    "category": "regtech",
+    "slug": "graph2",
+    "app_name": "Graph2",
+    "public_title": "Data Storytelling and Analytical Narrative Workspace",
+    "one_liner_ptbr": "Camada de data storytelling e narrativa analitica para transformar estrutura em leitura executiva e comunicacao de insight.",
+    "one_liner_en": "A public-safe technical case for data storytelling, analytical narrative, and multi-view communication of structured insight.",
+    "primary_user": "Analyst or decision communicator",
+    "category": "adjacent-system",
     "tags": [
-      "regulatory",
-      "crypto",
-      "diagnostic",
-      "decision-support",
-      "legaltech"
+      "data-storytelling",
+      "analytics",
+      "charts",
+      "narrative",
+      "adjacent-system"
     ],
-    "suggested_public_url_path": "/gn-psav-calculadora",
-    "suggested_cta_label": "Open GN - PSAV calculadora profile",
+    "suggested_public_url_path": "/graph2",
+    "suggested_cta_label": "Open Data Storytelling and Analytical Narrative Workspace",
     "risk_level": "MEDIUM",
-    "confidence": "HIGH"
+    "confidence": "MEDIUM",
+    "github_repo_url": "https://github.com/albertbac/dr2-graph2-showcase"
   },
   {
-    "slug": "gn-agente-ma",
-    "app_name": "GN - Agente M&A",
-    "public_title": "Seller-side M&A Decision Workspace",
-    "one_liner_ptbr": "Workspace faseado de decisao em M&A seller-side, combinando memoria, disciplina documental e raciocinio assistido por agentes.",
-    "one_liner_en": "A phase-based M&A decision workspace that combines memory, document discipline, and agent-assisted reasoning for seller-side work.",
-    "primary_user": "M&A advisor or deal team",
-    "category": "decision-systems",
+    "slug": "infectotech",
+    "app_name": "InfectoTech",
+    "public_title": "Infection-focused Healthtech Product Layer",
+    "one_liner_ptbr": "Camada de produto documentada de forma conservadora, com foco presumido em operacao relacionada a infeccao e LOW CONFIDENCE por sinais conflitantes.",
+    "one_liner_en": "A conservative public-safe case for an infection-focused healthtech product layer, published with LOW CONFIDENCE due conflicting safe signals.",
+    "primary_user": "Clinical or product operator",
+    "category": "clinical-ai",
     "tags": [
-      "m-and-a",
-      "decision-workspace",
-      "agents",
-      "documents",
-      "strategy"
+      "infection",
+      "clinical-ai",
+      "low-confidence",
+      "decision-support"
     ],
-    "suggested_public_url_path": "/gn-agente-ma",
-    "suggested_cta_label": "Open GN - Agente M&A profile",
+    "suggested_public_url_path": "/infectotech",
+    "suggested_cta_label": "Open Infection-focused Healthtech Product Layer",
     "risk_level": "MEDIUM",
-    "confidence": "HIGH"
+    "confidence": "LOW",
+    "github_repo_url": "https://github.com/albertbac/dr2-infectotech-showcase"
   },
   {
-    "slug": "gut-matrix-app",
-    "app_name": "GUT Matrix App",
-    "public_title": "Priority Matrix for Structured Decision Making",
-    "one_liner_ptbr": "Aplicativo web enxuto para priorizar problemas e iniciativas por meio de uma matriz GUT estruturada.",
-    "one_liner_en": "A lightweight web app for prioritizing issues and initiatives through a structured GUT framework.",
-    "primary_user": "Manager or team lead",
-    "category": "decision-systems",
+    "slug": "o-plantonista",
+    "app_name": "O plantonista",
+    "public_title": "On-call Physician Workflow Companion",
+    "one_liner_ptbr": "Companion de fluxo do plantonista para organizar pacientes, sintetizar contexto e apoiar a passagem de caso.",
+    "one_liner_en": "A public-safe technical case for an on-call physician workflow companion focused on organization, synthesis, and shift continuity.",
+    "primary_user": "On-call physician",
+    "category": "clinical-ai",
     "tags": [
-      "prioritization",
-      "gut-matrix",
-      "management",
-      "workflow"
+      "physician-workflow",
+      "handoff",
+      "sbar",
+      "mobile-first",
+      "clinical-ai"
     ],
-    "suggested_public_url_path": "/gut-matrix-app",
-    "suggested_cta_label": "Open GUT Matrix App profile",
-    "risk_level": "LOW",
-    "confidence": "HIGH"
-  },
-  {
-    "slug": "ishikawa",
-    "app_name": "Ishikawa",
-    "public_title": "Template-driven Ishikawa Diagram Builder",
-    "one_liner_ptbr": "Construtor estruturado de Ishikawa que transforma entradas guiadas em saidas consistentes em SVG e PNG.",
-    "one_liner_en": "A structured Ishikawa builder that turns guided inputs into consistent SVG and PNG outputs.",
-    "primary_user": "Quality or process improvement team",
-    "category": "workflow-design",
-    "tags": [
-      "ishikawa",
-      "diagram",
-      "svg",
-      "png",
-      "quality"
-    ],
-    "suggested_public_url_path": "/ishikawa",
-    "suggested_cta_label": "Open Ishikawa profile",
-    "risk_level": "LOW",
-    "confidence": "MEDIUM"
-  },
-  {
-    "slug": "prontuario-juridico",
-    "app_name": "Prontuario juridico",
-    "public_title": "Legal Dossier and Case Operations Workspace",
-    "one_liner_ptbr": "Workspace multi-tenant de operacao juridica para dossies, documentos, calculos e fluxos assistidos por IA.",
-    "one_liner_en": "A multi-tenant legal operations workspace for dossiers, documents, calculations, and controlled AI-assisted workflows.",
-    "primary_user": "Law firm operator",
-    "category": "legal-ops",
-    "tags": [
-      "legaltech",
-      "documents",
-      "dossier",
-      "workflow",
-      "multi-tenant"
-    ],
-    "suggested_public_url_path": "/prontuario-juridico",
-    "suggested_cta_label": "Open Prontuario juridico profile",
+    "suggested_public_url_path": "/o-plantonista",
+    "suggested_cta_label": "Open On-call Physician Workflow Companion",
     "risk_level": "HIGH",
-    "confidence": "MEDIUM"
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-o-plantonista-showcase"
   },
   {
     "slug": "rag-analista",
     "app_name": "RAG Analista",
     "public_title": "RAG Analyst for Document-heavy Operations",
-    "one_liner_ptbr": "Plataforma multi-tenant de analise documental com recuperacao de contexto, perguntas guiadas e revisao operacional controlada.",
-    "one_liner_en": "A multi-tenant analysis platform that answers over document context with retrieval, guided prompts, and controlled operational review.",
+    "one_liner_ptbr": "Plataforma de analise documental com RAG, perguntas guiadas e revisao controlada para operacoes intensivas em contexto.",
+    "one_liner_en": "A public-safe technical case for a RAG analyst built for document-heavy operations and controlled contextual review.",
     "primary_user": "Operational analyst",
     "category": "clinical-ai",
     "tags": [
       "rag",
       "documents",
-      "analysis",
-      "guided-prompts",
-      "health-ops"
+      "guided-analysis",
+      "knowledge-workflow",
+      "healthtech"
     ],
     "suggested_public_url_path": "/rag-analista",
-    "suggested_cta_label": "Open RAG Analista profile",
+    "suggested_cta_label": "Open RAG Analyst for Document-heavy Operations",
     "risk_level": "MEDIUM",
-    "confidence": "HIGH"
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-rag-analista-showcase"
+  },
+  {
+    "slug": "seguro-hack",
+    "app_name": "Seguro-hack",
+    "public_title": "Defensive Security Assessment and Hardening Workspace",
+    "one_liner_ptbr": "Ferramenta defensiva de assessment e hardening, orientada a usuarios leigos e publicada sem detalhes ofensivos.",
+    "one_liner_en": "A public-safe technical case for defensive security assessment, posture review, and hardening guidance for non-technical operators.",
+    "primary_user": "Non-technical site owner",
+    "category": "adjacent-system",
+    "tags": [
+      "defensive-security",
+      "hardening",
+      "reporting",
+      "adjacent-system"
+    ],
+    "suggested_public_url_path": "/seguro-hack",
+    "suggested_cta_label": "Open Defensive Security Assessment and Hardening Workspace",
+    "risk_level": "MEDIUM",
+    "confidence": "HIGH",
+    "github_repo_url": "https://github.com/albertbac/dr2-seguro-hack-showcase"
   }
 ]

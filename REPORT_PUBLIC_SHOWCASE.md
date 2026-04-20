@@ -485,6 +485,7 @@ A varredura final desta pasta foi concluida.
 - preencher métricas públicas manualmente
 - revisar wording final de apps com confidence MEDIUM
 - nenhum bloqueio material de privacidade foi encontrado dentro da pasta `/vitrine`
+- a publicação remota no GitHub não foi executada neste ciclo porque o `gh` local está com autenticação inválida
 
 ## 10. Decisão final de publicação:
 - PODE PUBLICAR

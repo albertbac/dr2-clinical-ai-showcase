@@ -15,3 +15,10 @@
 
 ## Public navigation principle
 The hub points outward to individual repositories. It should not become a generic dump of app material.
+
+
+## Public evidence workflow
+1. Keep app repos documentation-only by default.
+2. Add screenshots only after creating synthetic screens.
+3. Add metrics only after manual validation.
+4. Re-run privacy review before every public update.

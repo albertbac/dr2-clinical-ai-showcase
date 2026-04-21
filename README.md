@@ -9,6 +9,13 @@ This hub is an index. It is not an open-source release of the operating products
 - data is the method
 - web applications are the delivery layer
 
+
+## Publication model
+- one hub for thesis, navigation, and portfolio-level risk boundary
+- one public repository per authorized app
+- documentation-first cases instead of copied product code
+- manual evidence only after synthetic, public-safe review
+
 ## Start here
 Use this repository to understand the portfolio thesis, then open each app-specific repository for the public-safe technical case.
 

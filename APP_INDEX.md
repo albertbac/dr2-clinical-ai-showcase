@@ -21,3 +21,12 @@ These repositories support the broader product-building narrative without being 
 | --- | --- | --- | --- | --- | --- |
 | Data Storytelling and Analytical Narrative Workspace | [albertbac/dr2-graph2-showcase](https://github.com/albertbac/dr2-graph2-showcase) | analytical narrative and data storytelling | MEDIUM | MEDIUM | PUBLISHED |
 | Defensive Security Assessment and Hardening Workspace | [albertbac/dr2-seguro-hack-showcase](https://github.com/albertbac/dr2-seguro-hack-showcase) | defensive security assessment and hardening | HIGH | MEDIUM | PUBLISHED |
+
+
+## Priority reading order
+1. dr2-clinical-ai-showcase
+2. dr2-gestao-de-unidade-showcase
+3. dr2-o-plantonista-showcase
+4. dr2-rag-analista-showcase
+5. dr2-digital-twins-showcase
+6. dr2-gaso-showcase

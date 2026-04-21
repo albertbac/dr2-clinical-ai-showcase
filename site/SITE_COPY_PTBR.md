@@ -41,7 +41,7 @@ Esta vitrine publica organiza o portfolio em um hub principal e em um repositori
 - orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-gestao-de-unidade-showcase
 
 ## InfectoTech
-- descricao curta: Camada de produto documentada de forma conservadora, com foco presumido em operacao relacionada a infeccao e LOW CONFIDENCE por sinais conflitantes.
+- descricao curta: Camada de produto documentada de forma conservadora, com escopo publico ainda em validacao editorial.
 - valor entregue: Mantem uma camada publica minima enquanto o enquadramento final do produto ainda precisa ser confirmado manualmente.
 - CTA: Ver o case tecnico publico e conservador de InfectoTech.
 - orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-infectotech-showcase
@@ -67,7 +67,7 @@ Esta vitrine publica organiza o portfolio em um hub principal e em um repositori
 - orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-graph2-showcase
 
 ## Seguro-hack
-- descricao curta: Ferramenta defensiva de assessment e hardening, orientada a usuarios leigos e publicada sem detalhes ofensivos.
-- valor entregue: Mostra uma camada defensiva simples para diagnostico e correcoes praticas sem expor detalhes ofensivos.
+- descricao curta: Ferramenta defensiva de assessment e hardening, orientada a usuarios leigos e publicada sem detalhes que facilitem abuso.
+- valor entregue: Mostra uma camada defensiva simples para diagnostico e correcoes praticas sem expor detalhes que facilitem abuso.
 - CTA: Ver o case tecnico publico de Seguro-hack.
 - orientacao de link: o card do site deve apontar para https://github.com/albertbac/dr2-seguro-hack-showcase

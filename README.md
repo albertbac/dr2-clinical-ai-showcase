@@ -47,4 +47,4 @@ Use this repository to understand the portfolio thesis, then open each app-speci
 | Seguro-hack | [dr2-seguro-hack-showcase](https://github.com/albertbac/dr2-seguro-hack-showcase) | adjacent-system | ADJACENT SYSTEM | HIGH | MEDIUM | PUBLISHED |
 
 ## Publication boundary
-The public layer is documentation-first and exposure-minimized. It contains no production source code, no real records, no raw payloads, no private infrastructure detail, and no real screenshots by default.
+The public layer is documentation-first and exposure-minimized. It contains no production source code, no real records, no raw sensitive message bodies, no private infrastructure detail, and no real screenshots by default.

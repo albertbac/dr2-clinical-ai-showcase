@@ -34,7 +34,7 @@ Hub mantido e fortalecido:
 ## 4. Resumo global de risco
 Risco global: BAIXO para a camada publica atual.
 
-Motivo: a publicacao e documentation-first, nao contem codigo produtivo, nao contem dados reais, nao contem screenshots reais, nao contem payloads brutos e nao contem detalhes de infraestrutura privada.
+Motivo: a publicacao e documentation-first, nao contem codigo produtivo, nao contem dados reais, nao contem screenshots reais, nao contem mensagens brutas e nao contem detalhes de infraestrutura privada.
 
 Ressalvas:
 - dr2pdf, Gaso e O plantonista permanecem com exposure risk HIGH por natureza do dominio sensivel, mesmo com material publico seguro.

@@ -46,6 +46,7 @@ O risco global cai com o isolamento por repositorio, mas continua dependente de 
 - dr2-rag-analista-showcase: PUSH OK
 - dr2-seguro-hack-showcase: PUSH OK
 ## 7. O que ainda depende de Albert manualmente
+- Ajustes manuais do perfil GitHub conforme `PROFILE_ACTIONS_MANUAL.md`.
 - Captura manual de screenshots public-safe.
 - Preenchimento manual de metricas validas.
 - Confirmacao final de nomes publicos e claims.

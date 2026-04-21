@@ -11,3 +11,4 @@
 - If you want publication status: `REPORT_MULTI_REPO.md`
 - If you want site-facing copy: `site/SITE_COPY_PTBR.md`
 - If you want link metadata: `site/site_cards.json`
+- If you want the manual GitHub profile actions: `PROFILE_ACTIONS_MANUAL.md`

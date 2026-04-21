@@ -1,14 +1,17 @@
 # NAVIGATION
 
 ## Start here
-1. Read `README.md` for the thesis and the index table.
+1. Read `README.md` for the thesis and the master index.
 2. Open `APP_INDEX.md` to choose a repository by category.
-3. Use `REPORT_MULTI_REPO.md` for the audit and publication status.
+3. Use `REPORT_MULTI_REPO.md` for audit, push status, and remaining gaps.
 
 ## Reading order by intent
-- If you want the portfolio thesis: `README.md`
-- If you want the categorized list: `APP_INDEX.md`
-- If you want publication status: `REPORT_MULTI_REPO.md`
-- If you want site-facing copy: `site/SITE_COPY_PTBR.md`
-- If you want link metadata: `site/site_cards.json`
-- If you want the manual GitHub profile actions: `PROFILE_ACTIONS_MANUAL.md`
+- Portfolio thesis: `README.md`
+- App list by category: `APP_INDEX.md`
+- Publication and audit status: `REPORT_MULTI_REPO.md`
+- Site-facing copy: `site/SITE_COPY_PTBR.md`
+- Site card metadata: `site/site_cards.json`
+- Manual GitHub profile actions: `PROFILE_ACTIONS_MANUAL.md`
+
+## Public navigation principle
+The hub points outward to individual repositories. It should not become a generic dump of app material.

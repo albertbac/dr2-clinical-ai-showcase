@@ -1,18 +1,22 @@
 # DR2 Clinical AI Showcase
 
-Public-safe showcase of Clinical AI, interoperable health data systems, and healthcare web products.
+Public-safe technical portfolio of Clinical AI, healthtech product systems, and healthcare web applications built by Albert Bacelar.
 
-This repository is the master index for the public-safe showcase. It is not an open-source release of production systems.
+This hub is an index. It is not an open-source release of the operating products.
 
 ## Thesis
 - medicine is the asymmetry
 - data is the method
 - web applications are the delivery layer
 
-## How to use this hub
-1. Start here for the portfolio thesis.
-2. Open the individual repository for each product case.
-3. Treat every linked repository as a documentation-first public-safe case.
+## Start here
+Use this repository to understand the portfolio thesis, then open each app-specific repository for the public-safe technical case.
+
+## Audience
+- technical recruiters evaluating product and engineering judgment
+- healthtech partners evaluating healthcare workflow depth
+- clinical and operations leaders evaluating product fit
+- investors evaluating repeatable product-building capability
 
 ## Core Healthcare / Clinical AI
 - [Scenario Simulation and Digital Twin Workspace](https://github.com/albertbac/dr2-digital-twins-showcase)
@@ -42,10 +46,5 @@ This repository is the master index for the public-safe showcase. It is not an o
 | RAG Analista | [dr2-rag-analista-showcase](https://github.com/albertbac/dr2-rag-analista-showcase) | clinical-ai | CORE HEALTHCARE / CLINICAL AI | HIGH | MEDIUM | PUBLISHED |
 | Seguro-hack | [dr2-seguro-hack-showcase](https://github.com/albertbac/dr2-seguro-hack-showcase) | adjacent-system | ADJACENT SYSTEM | HIGH | MEDIUM | PUBLISHED |
 
-## Why the operating systems are not public
-The production products behind this showcase handle sensitive workflows, controlled integrations, private infrastructure, and restricted operating knowledge. Public release is therefore documentation-first and exposure-minimized.
-
-## Publication rule
-- Minimal exposure.
-- Strong documentation.
-- Zero avoidable leakage.
+## Publication boundary
+The public layer is documentation-first and exposure-minimized. It contains no production source code, no real records, no raw payloads, no private infrastructure detail, and no real screenshots by default.
